@@ -1,0 +1,18 @@
+# HTTP Cookie File for domains related to primevideo.com.
+# Downloaded with cookies.txt One Click Firefox Extension (https://addons.mozilla.org/en-US/firefox/addon/cookies-txt-one-click/)
+# Example:  wget -x --load-cookies cookies.txt https://www.primevideo.com/region/na/storefront
+#
+.primevideo.com	TRUE	/	TRUE		session-id-time	2082787201l
+.primevideo.com	TRUE	/	TRUE		session-id	138-3943371-2362715
+.primevideo.com	TRUE	/	TRUE		ubid-main-av	134-6492655-6972927
+.primevideo.com	TRUE	/	TRUE		session-token	EYYGFTzGNM8sITWdSrH0GuP5e9MzIIU2o458Nzmp9zdn9ue89NLJD+p/M0ArWirdJp7fwiZGJcNHtqICS3FJ3/1JF20easDHOXrtfVylJROnb9ugox3jCHsRfeTdb62UVbuaj+g6OewF67K+M5Gb/RuGM414JuiSTQiss5vRXybm1npuwNdZj7tVs13LchJ2JyWvHFC3LyrDDDENY17PMfhflZ7BRxBznTeevrL99cnemsJGOhgJhUY5on+oQSSB
+.primevideo.com	TRUE	/	FALSE		i18n-prefs	USD
+.primevideo.com	TRUE	/	FALSE		lc-main-av	en_US
+www.primevideo.com	FALSE	/	FALSE		csm-hit	tb:s-JFHZNCBAKC68D8QBE4PT|1790684916214&t:1790684916734&adb:adblk_yes
+.primevideo.com	TRUE	/	FALSE		av-timezone	America/New_York
+.primevideo.com	TRUE	/	TRUE		sst-main-av	Sst1|PQKpXqSURWg-sKACsvtgWzk2B5f25J8KPn5juRBSTTit1qMIAT5LPx5oCfTLfThsYbiAse50gjPq3MoU7EwMtpL1tlwbdy18jHzGllKdLR9KthA5O4LQ9vbyqQw4q_J-DRr4DrFiRySqmCT1mwP59wCmu1M2O2yldqIa3cTDEHnewCM2YHO6ho-A0eX-MNib_0nxbZ3iuVoZkIhWfp-FSCpZZaFFF2M5K84Oi9QqvZwyv7zwFGn3uJ35_dwfOz08Gny_
+.primevideo.com	TRUE	/	TRUE		_sso_t	1
+.primevideo.com	TRUE	/	TRUE		x-main-av	"mwXFGP@@QkDFLBjqn?9Ejct8sEadHLOyVNSgwfJnabodLcxiSK9J8kWsA1q0GF9s"
+.primevideo.com	TRUE	/	TRUE		at-main-av	Atza|gQDDVowPAwEBAKWLUUEGKJ4Y2zXFHR99OcUFgRi3_klvmU058zXmkg068VKo4tNR6uNVw3HwgU35oNelXekRNWpvYfkKtP-aHP51xlTHobfs94LpQClhLXfXFYigleMnnIEgLPFSd20jDiTIwZZDyroT56o6j5SEmIbFEmHHlHYIelhe7iGr7Bqm_rfKWIIei5NDUzE6-iZ_LbarbNStIJt5L8RZd9cPXCTjn6_fatx-lqcO2E-mETCcmezpnQVoEm8LIlULJeQJ9F_qiorcZMLk4vyXAQHqZqCVcTbZtlkqWBVUyrkOmFZKtue3KF2VY8K-ZDR4T6lah_UOFCGf9iQ2wQIoQF-rh2RNjiiTpk1KvK_8I_NZlLjhfRmhIqi-yEwNAfrORtdREnX47VaJkwOkCCVccInG1T6VPvMlUlUny7R05eg
+.primevideo.com	TRUE	/	TRUE		sess-at-main-av	qXgTXp1mggVaAFfe/uDaBQNgGD012UgSRmxseKlv0bI=
+.primevideo.com	TRUE	/	TRUE		av-profile	cGlkPWFtem4xLmFjdG9yLnBlcnNvbi5vaWQuQUs5QUpPMkszTFNRVCZ0aW1lc3RhbXA9MTc5MDY4NDkxNTE0MCZ2ZXJzaW9uPXYx.g6eDwU-QsoMNnr5T80_-3BIodSNpGb_0FKDwELU-00esAAAAAQAAAABqu67zcmF3AAAAAPgWC9WfHH8iB-olH_E9xQ
